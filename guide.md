@@ -6,7 +6,7 @@ La guida può subire modifiche durante il corso degli anni, assicurarsi che la g
 
 Versione: $\alpha - 0.1$
 
-Contributi: [Niccolò Papini](file/main.pdf)
+Contributi: [Niccolò Papini](https://drive.google.com/uc?export=download&id=1H1ZpMxJEGjITsQTOCewTA2Pb4fh74yjL)
 
 # Come funziona il TOL e l'immatricolazione al Politecnico di Milano
 
