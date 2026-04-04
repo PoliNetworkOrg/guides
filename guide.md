@@ -16,7 +16,7 @@ IL TOL è il mezzo tramite cui il Politecnico di Milano verifica la tua preparaz
 
 Ad oggi la prova può essere svolta al quarto e al quinto anno.
 
-Se si svolge la prova al quarto anno e si supera con un punteggio $\geq 75/100$ si ha diritto ad un posto garantito in qualsiasi corso di laurea del poli per il quale si è svolto il test, TOL-I Ingegneria, TOL-A, Architettura o TOL-D Design. $\implies$ svolgendo il test di ingresso in quarta vi farete un estate della quinta dopo la maturità in riva al mare mentre i vostri amici studieranno per i test delle loro università e potrete prenderli in giro.
+Se si svolge la prova al quarto anno e si supera con un punteggio $\geq 75/100$ si ha diritto ad un posto garantito in qualsiasi corso di laurea del poli per il quale si è svolto il test, TOL-I Ingegneria, ARCHED, Architettura, TOL-D Design o il Test per Urbanistica. $\implies$ svolgendo il test di ingresso in quarta vi farete un estate della quinta dopo la maturità in riva al mare mentre i vostri amici studieranno per i test delle loro università e potrete prenderli in giro.
 
 Se invece svolgete il TOL al quinto anno, dovrete partecipare alle graduatorie che solitamente sono a luglio-agosto $\implies$ anche voi vi godrete l'estate.
 
@@ -60,7 +60,37 @@ Il Politecnico converte alcuni test dando un punteggio equivalente TOL, per sape
 
 # Ecco le cose da fare se ti sei appena immatricolato
 
-bodybodybody
+Complimenti, se non l'hai ancora fatto entra nel gruppo telegram di polinetwork dedicato alle matricole di ogni anno accademico. Ecco il link dell'anno 26/27 [Link al canale](https://t.me/polimatricole).
+
+## E una volta entrato ?
+
+Inizia a conoscere i tuoi nuovi colleghi e stringi amicizie prima dell'inizio dell'univerità, goditi l'estate e aspetta l'inizio delle lezioni.
+
+## E se volessi creare il gruppo del mio corso di studio (CCS) ?
+
+Non serve, infatti polinetwork fa questo da anni e sa benissimo quando è il tempo opportuno per "lanciare" i gruppi whatsapp per ogni CCS. Pazienta e sarai ricompensato.
+
+## E se ho bisogno di aiuto ?
+
+In ogni gruppo puoi trovare degli admin che saranno felicissimi di aiutarti per ogni cosa tu abbia bisogno, tra loro potrai trovare anche qualche tuo rappresentante.
+
+## E se avessi bisogni di un aiuto da parte dei rappresentanti ?
+
+Non preoccuparti hai tanti metodi per comunicare e conoscere i rappresentanti:
+
+1. Lezione Zero: una lezione che si svolge qualche giorno prima delle lezioni e che terranno i rappresentanti e il coordinatore del tuo corso di studi, consigliamo caldamente la partecipazione.
+2. Mail dei rappresentanti, ogni rappresentante di ogni CCS ha una mail che li accomuna. Se hai bisogno di aiuto per un problema con l'università cerca la mail dei tuoi rappresentanti. 
+
+[Pagina con le mail dei rappresentanti della scuola 3I(Ingegneria Industriale e dell'Informazione)](https://www.ingindinf.polimi.it/la-scuola/rappresentanti-degli-studenti)
+
+[Pagina con le mail dei rappresentanti della scuola ICAT(Ingegneria Civile, Ambientale e Territoriale)](https://www.ingcat.polimi.it/la-scuola/rappresentanti-degli-studenti)
+
+[Pagina con le mail dei rappresentanti della scuola di Design](https://www.design.polimi.it/la-scuola/rappresentanti-degli-studenti)
+
+[Pagina con le mail dei rappresentanti della scuola AUIC (Architettura Urbanistica e Ingegneria delle Costruzioni)](https://www.auic.polimi.it/la-scuola/rappresentanti-degli-studenti)
+
+3. Pagina instagram del tuo CCS: infatti molti rappresentati degli studenti hanno un pagina instagram che aggiornano e usano per comunicazioni con i propri studenti, come: Novità, Eventi oppure per ricevere segnalazioni e chiedere feedback.
+4. I gruppi whatsapp: infatti dentro i gruppi whatsapp tra gli admin si trovano alcuni rappresentati degli studenti presenti e attenti per aiutarvi in caso di necessità. Quindi usateli per chiedere assistenza a loro direttamente.
 
 # Come funziona il piano degli studi
 
