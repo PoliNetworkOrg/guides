@@ -8,9 +8,55 @@ Versione: $\alpha - 0.1$
 
 Contributi: [Niccolò Papini](https://drive.google.com/uc?export=download&id=1H1ZpMxJEGjITsQTOCewTA2Pb4fh74yjL)
 
-# Come funziona il TOL e l'immatricolazione al Politecnico di Milano
+# Come funziona il TOL-I e l'immatricolazione al Politecnico di Milano
 
-bodybodybody
+## Che cos'è il TOL - I?
+
+IL TOL è il mezzo tramite cui il Politecnico di Milano verifica la tua preparazione in 4 categorie: Logica e Matematica, Comprensione Verbale, Fisica e Inglese.
+
+Ad oggi la prova può essere svolta al quarto e al quinto anno.
+
+Se si svolge la prova al quarto anno e si supera con un punteggio $\geq 75/100$ si ha diritto ad un posto garantito in qualsiasi corso di laurea del poli per il quale si è svolto il test, TOL-I Ingegneria, TOL-A, Architettura o TOL-D Design. $\implies$ svolgendo il test di ingresso in quarta vi farete un estate della quinta dopo la maturità in riva al mare mentre i vostri amici studieranno per i test delle loro università e potrete prenderli in giro.
+
+Se invece svolgete il TOL al quinto anno, dovrete partecipare alle graduatorie che solitamente sono a luglio-agosto $\implies$ anche voi vi godrete l'estate.
+
+### Quando svolgere il TOL-I?
+
+Per questo punto vi lasciamo il link alla pagina polimi interessata, dato che sarebbe inutile e ridondante mettere date e cambiarle ogni anno. [Link alla pagina polimi TOL-I](https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/quando-iscriversi-al-tol)
+
+### Come mi preparo al test TOL-I?
+
+Avete due metodi principalmente:
+
+1. Quello ufficiale, il poli pubblica dei .pdf apposta per la preparazione all'esame e di gratuita consultazione, oppure passando per ogni campus del politecnico potete trovare il manuale venduto in ogni PoliPrint (fotocopisteria del politecnico di milano). [Link alla pagina di preparazione](https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/in-cosa-consiste-il-tol-e-come-prepararsi)
+2. Noi di Polinetwork abbiamo sviluppato un simulatore di prove TOL, non possiamo garantire nulla ma i test si avvicinano molto a quello che vi ritroverete il giorno della prova. [Link al simulatore](https://tol.polinetwork.org/)
+
+## Ho passato il TOL-I con un punteggio che mi soddisfa cosa devo fare ora ?
+
+Aspettare che si aprano le graduatorie, le graduatorie sono di due tipi: anticipata e standard.
+
+- Graduatoria ad accesso anticipato: si apre 2 settimane prima della prima graduatoria standard di base (ma vi chiediamo di confermare guardando il link in fondo a questo sottocapitolo) e possono iscrivercisi solo gli studenti che hanno svolto il TOL al quarto anno di superiori, RICORDATEVI DI ISCRIVERVI ALTRIMENTI PERDERTE L'OCCASIONE E PARTECIPERETE SOLO A QUELLE STANDARD.
+- Graduratoria standard: questa è per tutti coloro che abbiano ricevuto un punteggio TOL $\geq 30/100$ e si svolge come una normale graduatoria quindi a seconda dei posti disponibili si accettano tutti coloro che rientrano nel range e dopo una fase di immatricolazione si scorre aprendo la seconda graduatoria e così via. Si ricorda che se NON ci si dovesse iscrivere alla graduatoria allora NON ci si prenderà parte pure avendo fatto un punteggio di $100/100$ al TOL.
+
+Vi lasciamo il link alla pagina per scoprire le date delle varie graduatorie. [Date graduatorie TOL-I](https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/punteggi-e-formulazione-delle-graduatorie)
+
+## Ho passato la graduatoria come mi immatricolo ?
+
+BENE! Sei stato preso nei posti disponibili alla graduatoria e ti è spuntato un flag "ASSEGNATO" o qualcosa di simile, ora hai pochissimi giorni per immatricolarti. QUINDI consigliamo fortemente di farlo subito senza perdere tempo per non rischiare di avere problemi o dimenticanze dell'ultimo minuto.
+
+### E se mi dimentico ?
+
+Se ti dimentichi ci dispiace informarti che NON potrai immatricolarti e verrai considerato come rinuciatario per quest'anno constringenti a ripetere tutto (TOL e Graduatoria) l'anno dopo..
+
+### E se era l'ultima graduatoria ?
+
+Ci dispiace informarti che oltre l'ultima graduatoria non ti sarà più possibile immatricolarti pure se eri stato preso a quella prima e dovrai rifare tutto (TOL e Graduatoria) l'anno dopo.
+
+Lasciamo anche qui il link alla pagina polimi con le date e i flag corretti. [Immatricolazione](https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/quando-immatricolarsi)
+
+## Bello il TOL-I eh, ma se faccio il TOLC-I o un test alternativo ?
+
+Il Politecnico converte alcuni test dando un punteggio equivalente TOL, per sapere quali e come vengano convertiti vi lasciamo il link alla pagina del poli. [Link per i test alternativi](https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/sei-in-possesso-di-un-test-alternativo)
 
 # Ecco le cose da fare se ti sei appena immatricolato
 
