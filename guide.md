@@ -40,13 +40,49 @@ Aspettare che si aprano le graduatorie, le graduatorie sono di due tipi: anticip
 
 Vi lasciamo il link alla pagina per scoprire le date delle varie graduatorie. [Date graduatorie TOL-I](https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/punteggi-e-formulazione-delle-graduatorie)
 
+## Quando posso vedere la graduatoria ?
+
+La graduatoria è visibile solo dopo la sua uscita, NON 2 min prima NON 2 giorni prima e NO non esistono modi loschi per visualizzarla prima quindi non chiedetelo. Le date di uscita delle graduatorie sono segnate sulla pagina del poli al seguente link: [Date graduatorie TOL-I](https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/punteggi-e-formulazione-delle-graduatorie)
+
+## Dove posso vedere la graduatoria ?
+
+La graduatoria è visualizzabile al seguente percorso "Servizi Online" -> "Lauree triennali e a ciclo unico: test di ingresso o di recupero ed immatricolazione", da qui cercare qualcosa di simile a "visualizza graduatoria"
+
+## Cosa vuol dire "IN ATTESA" ?
+
+Vuol dire che purtroppo per questa graduatoria non sei stato preso in nessun corso di studi per il quale hai espresso interesse. Devi manifestare l'interesse di partecipare alla graduatoria successiva altrimenti verrai considerato rinunciatario e dovrai aspettare la fase successiva.
+
+## È possibile cambiare le preferenze ?
+
+## Quante graduatorie esistono ?
+
+Esistono 8 graduatorie e sono suddivise in 4 per la seconda fase, 2 per la terza e 2 per l'ultima fase. La prima fase è limitata a chi svolge il test al quarto anno. Per le date è possibile visualizzarle al seguente link: [Date graduatorie TOL-I](https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/punteggi-e-formulazione-delle-graduatorie)
+
+## Se alla seconda graduatoria non entro nel corso preferito, perdo il posto nel corso di backup?
+
+Se risulti "PRENOTATO" vuol dire che non sei stato preso al corso in prima posizione delle tue preferenze ma sei stato preso in uno degli altri, puoi comunque iscriverti alla graduatoria successiva se non ti immatricoli, il posto chiaramente verrà perso in quella graduatoria e non è garantito che nella successiva ti venga ridato.
+
+## Il voto di maturità influisce sull'ammissione ?
+
+No, il voto di maturità non influisce.
+
+## È necessario aver messo l'ISEE entro la prima graduatoria?
+
+## Qual è stato il punteggio minimo per il corso di laurea X ?
+
+Potete visualizzare le graduatorie degli anni precedenti al seguente link: [Ranking polimi](https://rankings.polinetwork.org/)
+
 ## Ho passato la graduatoria come mi immatricolo ?
 
-BENE! Sei stato preso nei posti disponibili alla graduatoria e ti è spuntato un flag "ASSEGNATO" o qualcosa di simile, ora hai pochissimi giorni per immatricolarti. QUINDI consigliamo fortemente di farlo subito senza perdere tempo per non rischiare di avere problemi o dimenticanze dell'ultimo minuto.
+BENE! Sei stato preso nei posti disponibili alla graduatoria e ti è spuntato un flag "ASSEGNATO", ora hai pochissimi giorni per immatricolarti. QUINDI consigliamo fortemente di farlo subito senza perdere tempo per non rischiare di avere problemi o dimenticanze dell'ultimo minuto.
+
+Per immatricolarti ti verrà chiesto di pagare la prima rata. Una volta confermato il pagamento verrà confermata la tua immatricolazione e potrai rilassarti. La conferma potrebbe arrivare subito tramite "IO" app.
 
 ### E se mi dimentico ?
 
 Se ti dimentichi ci dispiace informarti che NON potrai immatricolarti e verrai considerato come rinuciatario per quest'anno constringenti a ripetere tutto (TOL e Graduatoria) l'anno dopo..
+
+P.S. Questo non si applica se avevi il flag "PRENOTATO"
 
 ### E se era l'ultima graduatoria ?
 
@@ -54,9 +90,75 @@ Ci dispiace informarti che oltre l'ultima graduatoria non ti sarà più possibil
 
 Lasciamo anche qui il link alla pagina polimi con le date e i flag corretti. [Immatricolazione](https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/quando-immatricolarsi)
 
+## La mia immatricolazione risulta 'non perfezionata': è un problema se aspetto ancora il voto di maturità ?
+
+No, basta che appena hai il voto lo inserisci. 
+
+L'importante è aver pagato la prima rata.
+
+## Cosa si fa se non si riesce ad accedere al sito del Polimi per immatricolarsi?
+
+Se non avete aspettato l'ultima ora per immatricolarsi bene, altrimenti potrebbe essere un problema bello grosso. Terminato il tempo perderai definitivamente il posto se risultavi come "ASSEGNATO".
+
+## Quali sono le scadenze per l'immatricolazione?
+
+Pochi giorni.
+
+## Come si paga la prima rata? Si può stampare il bollettino e pagarlo in tabaccheria?
+
+Si paga tramite servizi online, utilizzando PagoPA della banca oppure tramite CBILL se ti fai emettere il bollettino.
+
+Si puoi pagarlo in tabaccheria.
+
+## L'importo della prima rata viene calcolato automaticamente in base all'ISEE ?
+
+Si, viene calcolato in automatico. 
+
+Se l'ISEE non è stato inserito si apporta il prezzo pieno.
+
+L'ISEE da inserire deve essere specifico per l'uso universitario, va specificato quando si fa richiesta per l'ISEE.
+
+## Per immatricolarsi entro la scadenza si deve per forza pagare la prima rata subito?
+
+No, basta pagarla entro la scadenza. Se la pagate 5 minuti prima è possibile che non arrivi in tempo la notifica al sistema. A voi il rischio.
+
 ## Bello il TOL-I eh, ma se faccio il TOLC-I o un test alternativo ?
 
 Il Politecnico converte alcuni test dando un punteggio equivalente TOL, per sapere quali e come vengano convertiti vi lasciamo il link alla pagina del poli. [Link per i test alternativi](https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/sei-in-possesso-di-un-test-alternativo)
+
+## Voto di maturità
+
+Il voto  di mmaturità non dà nessuna agevolazione a livello di tasse o ingresso, serve al poli solo come check per assicurarsi che tu abbia un diploma.
+
+### Entro quando devo inserirlo ?
+
+Appena ti esce, non è necessario per immatricolarsi. 
+
+Per immatricolarsi è necessario pagare la prima rata.
+
+## ISEE
+
+L'ISEE è il mezzo che si utilizza per calcolare le tasse universitarie da pagare.
+
+### Come lo richiedo ?
+
+Si richiede tramite CAF oppure online dal sito dell'INPS se si è dei pro, personalmente consiglio di andare al CAF.
+
+### Devo richiedere un ISEE particolare ?
+
+Si, va richiesto l'ISEE per uso universitario. Se si richiiede solo l'ISEE standard questo non sarà valido per il calcolo della fascia per il pagamento della tassa e vi verrà data la fascia massima.
+
+### Entro quando va inserito per il pagamento della prima rata ?
+
+Va inserito entro il pagamento della prima rata, si consigli appena si riceve e almeno 1/2 settimane prima della prima graduatoria.
+
+### Dove inserisco l'ISEE ?
+
+"Servizi Online" -> "Tasse e agevolazioni" -> "ISEE"
+
+### Entro quando devo inserire l'ISEE per la seconda rata ?
+
+L'ISEE va inserito prima dell'uscita della seconda rata, quindi priima di maggio.
 
 # Ecco le cose da fare se ti sei appena immatricolato
 
@@ -97,6 +199,12 @@ Non preoccuparti hai tanti metodi per comunicare e conoscere i rappresentanti:
 NON TOCCARE IL PIANO DEGLI STUDI.
 
 Questo infatti è compilato in automatico al primo anno e qualsiasi azione manuale rischia di creare casini.
+
+# Tasse
+
+## Quante tasse esistono ?
+
+
 
 # Come funziona il piano degli studi
 
