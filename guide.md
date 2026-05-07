@@ -204,7 +204,69 @@ Questo infatti è compilato in automatico al primo anno e qualsiasi azione manua
 
 ## Quante tasse esistono ?
 
+## Qual'è la scadenza della seconda rata ?
 
+## L'isee regna sovrano ?
+
+# DSU
+
+## Come faccio domanda per la DSU (Borsa per il Diritto allo Studio)
+
+## L'IBAN di Revolut è accettato per la DSU ?
+
+## Il DSU è compatibile con altre borse di studio ?
+
+## Entro quando esce la graduatoria ?
+
+## Quali sono le condizioni per la DSU ?
+
+## Ci sono bandi per le borse di studio riservate alle donne nello STEM ?
+
+## La DSU si prende solo al primo anno ?
+
+## Un contratto a cedolare secca rinnovabile ogni 6 mesi è valido per la borsa fuori sede ?
+
+# PoliCard
+
+## Cos'è ?
+
+## Sono passati ben 3 giorni e non ho ancora ricevuto la mia policard, a chi posso sporgere denuncia ?
+
+## Sono laureato in magistrale e non ho ancora ricevuto la mia prima policard, è normale ?
+
+## Sono iniziate le lezioni e non ho ancora la policard, che cosa posso fare ?
+
+## Come si attiva la prepagata PoliCard ?
+
+## Ha senso attivare la prepagata ?
+
+## Che vantaggi ho con la policard ?
+
+# Mail istituzionale e credenziali
+
+## Com'è la mail del poli ?
+
+## Posso usare la mail del poli per iscrivermi a un sito porno ?
+
+## Mi stanno arrivando mail scam sulla mail del poli, che faccio ?
+
+## Quali sono le credenziali del poli ?
+
+## È davvero fondamentale ricordarsi il codice persone e addirittura la matricola ?
+
+## Sapere la differenza tra un numero pari e dispari è fondamentale ?
+
+# Corso sulla Sicurezza
+
+## Cosa sono i corsi sulla sicurezza che appaiono sui servizi online ?
+
+## È vero che se li faccio tutti vinco un gelato ?
+
+## Non ho voglia di fare il corso base, mi serve ?
+
+## Non mi hanno fatto fare l'esame perché non ho fatto il corso base, cosa posso fare ?
+
+## Quali corsi devo fare ?
 
 # Come funziona il piano degli studi
 
@@ -237,6 +299,70 @@ NO, o meglio non è possibile nel caso di corsi arretrati ma è possibile nel ca
 
 Si, al politecnico la maggior parte degli insegnamenti NON richiede propedeucità esplicita. Si possono quindi inserire Analisi 1 e Analisi 2 nello stesso piano e superare prima la 2 della 1.
 
+# Orario delle lezioni
+
+## È Luglio, sono al mare e il PoLiTeCNicO di MiLANo ha osato non pubblicare ancora l'orario, posso dirlo a mamma e papà ?
+
+## Come vedo l'orario ?
+
+## Cos'è uno scaglione ?
+
+## Non so la differenza tra un numero pari o dispari, cosa merito ?
+
+## Ho 6 ore di fila, con chi posso lamentarmi ?
+
+## Mi sembra ingiusto che io abbia tutta la settimana con le lezioni ma il mio amico dell'altro scaglione abbia il giorno libero, posso cambiare scaglione ?
+
+## Come cambiare scaglione.
+
+## Posso mettere l'orario su Google Calendar ?
+
+## Oggi piove e non ho voglia di andare a lezione, ma il prof non vuole avviare lo streaming. Cosa posso fare ?
+
+## Qual è l'orario minimo e massimo per le lezioni ?
+
+## Cosa sono le squadre ?
+
+## Ho due lezioni allo stesso orario, come faccio ?
+
+## Credo ci sia un problema con il mio orario, è bellissimo.
+
+## Le lezioni hanno frequenza obbligatoria ?
+
+## Posso seguire il prof di un altro scaglione ?
+
+# Precorsi e corsi di ripasso
+
+## Cosa sono i precorsi / corsi di ripasso? 
+
+##  Come ci si iscrive ai corsi di ripasso di matematica e fisica?
+
+## Arriva una mail di conferma dopo l'iscrizione ai corsi di ripasso?
+
+## Ci si può iscrivere e poi non andare sempre, o è obbligatoria la presenza continuativa?
+
+## Cosa sono i MOOCs di Polimi Open Knowledge (POK)? Vanno fatti prima dei precorsi?
+
+## A chi conviene fare i precorsi ?
+
+# Lezione 0
+
+## Cos'è ?
+
+## È vero che chi ha scritto questa guida sarà alla lezione zero e farà gli autografi ?
+
+## Serve ?
+
+## È obbligatoria ?
+
+## Cos'è il tutorato per le matricole ?
+
+## Cos'è il Welcome Desk ?
+
+## Bisogna iscriversi per partecipare alla lezione zero ?
+
+## Ci sono eventi simili nei campus territoriali (Cremona, Lecco, Piacenza)?
+
 # Come funzionano gli appelli d'esame
 
 Gli appelli d'esame sono il mezzo tramite il quale si verificano le conoscenze apprese durante il semestre di lezioni, esistono 2 tipi di appelli: appelli d'esame totali e prove in itinere.
@@ -266,6 +392,93 @@ La comunicazione con i docenti avviene tramite mail, ogni docente ha una mail st
 ## Se scrivo a un docente mi mangia ?
 
 No, i docenti non hanno nella dieta "Studenti che mi scrivono mail" quindi non abbiate timore di comunicare con un docente. Piccola regola magna che uso io, scrivete sempre dal Lunedì al Venerdì dalle 8 alle 19, rompete queste regole solo in caso di emergenza.
+
+# OFA di Inglese
+
+## Come si recupera ?
+
+## C'è una scadenza ?
+
+## Esistino corsi per recuperare l'OFA ?
+
+# Residenze e Alloggi
+
+## Come si prenota una stanza nelle residenze polimi ?
+
+## Dopo quanto tempo dal pagamento confermano l'assegnazione in residenza?
+
+## Come si vede se ci sono ancora posti disponibili nelle residenze?
+
+## Quando escono le graduatorie per i posti letto?
+
+## Quali sono le residenze universitarie più consigliate vicino a Leonardo/Bovisa?
+
+## Quanto costa mediamente una stanza singola vicino al campus Leonardo?
+
+## Quali zone di Milano sono consigliate/sicure per trovare casa?
+
+## C'è un gruppo per cercare coinquilini o appartamenti a Milano?
+
+## Come si ottiene il riconoscimento dello status di fuorisede?
+
+## Per la borsa di studio da fuori sede serve il contratto registrato?
+
+# Trasporti
+
+## Esistono agevolazioni per gli abbonamenti ATM per studenti del Polimi?
+
+## Quanto costa l'abbonamento ATM? Ci sono sconti con ISEE?
+
+## Conviene Bikemi o Lime per gli spostamenti in zona Città Studi?
+
+## Ci sono agevolazioni Trenitalia/Frecciarossa per fuorisede?
+
+# Polimi APP e altri software
+
+## Come si aggiunge la foto profilo nei Servizi Online / app Polimi?
+
+## Cos'è Webeep? Come si accede?
+
+## Cos'è Polimi Open Knowledge (POK)? Come ci si registra?
+
+## Come si accede a Microsoft 365 / Teams con le credenziali Polimi?
+
+## Il Polimi fornisce licenze Office anche per Mac?
+
+## Come vedo tutti i software offerti ?
+
+# Bibblioteca
+
+## Si può prenotare un posto in biblioteca?
+
+## Come si accede agli e-book della biblioteca ?
+
+## La biblioteca è aperta il sabato?
+
+# Wi-Fi
+
+# Vita in Campus
+
+## Come funziona la mensa del Polimi? Quanto costa un pasto?
+
+## Ci sono buoni pasto o agevolazioni per mangiare?
+
+## Come funzionano gli armadietti? Vanno prenotati? Quanto sono disponibili?
+
+## La palestra del Polimi (Giurati) com'è? Quanto costa? È affollata ?
+
+## Cos'è il festival dell'ingegneria? Le lezioni vengono sospese ?
+
+## Cos'è l'aperitivo delle matricole?
+
+## Dove si possono trovare libri usati o scambiare materiali?
+
+# Cambio corso
+
+## Se mi sono immatricolato a un corso di ripiego, posso passare al corso preferito l'anno prossimo?
+
+## Si può trasferire da una sede territoriale (Cremona, Lecco) a Milano Leonardo?
+
 
 # Che cos'è il Manifesto degli Studi
 
