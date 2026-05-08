@@ -1,3 +1,13 @@
+---
+title: "Guida della Matricola"
+author: "Niccolò Papini"
+toc: true
+numbersections: true
+colorlinks: true
+linkcolor: blue
+geometry: margin=2.5cm
+---
+
 # Introduzione
 
 Questa è una guida offerta da Polinetwork per gli studenti del Politecnico di Milano, basata sulle domande che gli admin ricevono più spesso dagli studenti.
@@ -158,7 +168,11 @@ Va inserito entro il pagamento della prima rata, si consigli appena si riceve e 
 
 ### Entro quando devo inserire l'ISEE per la seconda rata ?
 
-L'ISEE va inserito prima dell'uscita della seconda rata, quindi priima di maggio.
+L'ISEE va inserito prima dell'uscita della seconda rata, quindi prima di maggio.
+
+### Cosa succede se mi dimentico ?
+
+Se ci si dimentica di inserire l'isee entro scandeza, verrà assegnata la fascia di reddito massima e quindi bisognerà pagare il massimo della rata. Ma non panicate, se infatti inserirete l'isee in ritardo allo scadere della scadenza per pagare la rata vi verrà data possibilità di pagare la rata della vostra fascia con una mora di 250€ per i ritardi.
 
 # Ecco le cose da fare se ti sei appena immatricolato
 
@@ -204,69 +218,143 @@ Questo infatti è compilato in automatico al primo anno e qualsiasi azione manua
 
 ## Quante tasse esistono ?
 
+Esistono 2 tasse: una viene pagata ad Agosto o comunque per immatricolarsi, mentre la seconda si paga verso Aprile - Maggio
+
 ## Qual'è la scadenza della seconda rata ?
+
+La seconda rata ha una scadenza variabile, comunque la scadenza si aggira sempre intorno a fine Maggio.
 
 ## L'isee regna sovrano ?
 
+SI, l'isee regna sovrano. Infatti con questo si avrà la possibilità di avere la prima e la seconda rata scontata in base alla propria fascia di reddito. DUNQUE NON ASPETTATE TROPPO A RICHIEDERLO.
+
 # DSU
+
+La DSU è anche conosciuta come Borsa per il Diritto allo Studio, dà diversi benefici hai vincitori come:
+
+- Tasse dimezzate o nulle;
+- Buoni pasto;
+- Alloggio.
+
+Le DSU sono di due tipi:
+
+- Merito (basati sulla media)
+- Reddito (basata sull'ISEE)
 
 ## Come faccio domanda per la DSU (Borsa per il Diritto allo Studio)
 
+Per richiedere la borsa di studio è necessario tenersi informati su quando uscirà il bando e leggere adeguatamente i criteri e i requisiti per partecipare, trovate tutto a questo link: [Link per DSU](https://www.polimi.it/studenti/tasse-borse-e-agevolazioni/diritto-allo-studio)
+
 ## L'IBAN di Revolut è accettato per la DSU ?
+
+
 
 ## Il DSU è compatibile con altre borse di studio ?
 
+
+
 ## Entro quando esce la graduatoria ?
+
+Mettere date qui è abbastanza inutile dato che varia da anno in anno. Consigliamo quindi di guardare la pagina del poli dedicata alla [DSU](https://www.polimi.it/studenti/tasse-borse-e-agevolazioni/diritto-allo-studio)
 
 ## Quali sono le condizioni per la DSU ?
 
+Mettere condizioni qui è abbastanza inutile dato che possono variare da anno in anno. Consigliamo quindi di guardare la pagina del poli dedicata alla [DSU](https://www.polimi.it/studenti/tasse-borse-e-agevolazioni/diritto-allo-studio)
+
 ## Ci sono bandi per le borse di studio riservate alle donne nello STEM ?
+
+Credo di si ma devo chiedere
 
 ## La DSU si prende solo al primo anno ?
 
+No, la DSU può essere richiesta ogni anno e se si vuole partecipare bisogna partecipare ogni anno.
+
 ## Un contratto a cedolare secca rinnovabile ogni 6 mesi è valido per la borsa fuori sede ?
+
+Da chiedere
 
 # PoliCard
 
 ## Cos'è ?
 
+La PoliCard è sostanzialmente un badge con potenziale di prepagata, la policard mi servirà per poter usufruire di molti servizi al politecnico: Accesso in bibblioteca, parcheggio biciclette e accesso in alcune aree che ri richiedono il riconoscimento con Badge.
+
 ## Sono passati ben 3 giorni e non ho ancora ricevuto la mia policard, a chi posso sporgere denuncia ?
+
+A mamma e papà e nel mentre che lo fai fatti una tisana e rilassati.
 
 ## Sono laureato in magistrale e non ho ancora ricevuto la mia prima policard, è normale ?
 
+No, ma tranquillo non ti sei perso nulla.
+
 ## Sono iniziate le lezioni e non ho ancora la policard, che cosa posso fare ?
+
+Ok, questo non è un problemone ma è una cosa antipatica ti capisco. Innanzitutto è normale non preoccuparti, succede di consegne in ritardo, prima di tutto assicurati di non averla ricevuta al tuo indirizzo di residenza (non quello di domicilio). Seconda cosa che si può fare è dare un'altra settimana dall'inizio delle lezioni, infatti la policard è affidata ad entri di consegna che possono creare ritardi. Terzo, se è passata la settimana e ancora niente scrivi alla segreteria una mail per sicurezza la procedura è: "Servizi Online" -> "Nuova Richiesta".
 
 ## Come si attiva la prepagata PoliCard ?
 
+È una vaccata, fidatevi non fatelo. Ma se vi serve ecco a voi la procedura, avete due modalità:
+
+- Online tramite "Servizi Online" -> “Tesserino PoliCard – attivazione servizi bancari"
+- Di persona presso una sede BPER Banca (è dentro Campus Leo)
+
+Con l'attivazione avrete assegnato l'iban della vostra prepagata e potrete ricevere i soldi per i buoni pasto e/o DSU direttamente su quella carta.
+
 ## Ha senso attivare la prepagata ?
 
-## Che vantaggi ho con la policard ?
+Ripeto a mio parere no, ma può tornare comodo.
 
 # Mail istituzionale e credenziali
 
 ## Com'è la mail del poli ?
 
+La mail del poli per noi studenti è standard: nome.cognome@mail.polimi.it il nome è seguito da dei numeri se sono presenti omonimi (nome e cognome già registrati) è anche possibile usare un secondo indirizzo, che in realtà è connesso al primo: codice_persona@polimi.it
+
 ## Posso usare la mail del poli per iscrivermi a un sito porno ?
+
+Si, puoi.
 
 ## Mi stanno arrivando mail scam sulla mail del poli, che faccio ?
 
+È normale, tranne se hai fatto quello scritto alla domanda sopra. Il poli manda periodicamente finte mail scam per sensibilizzare sulla sicurezza in rete.
+
 ## Quali sono le credenziali del poli ?
+
+Le credenziali del poli sono "codice_persona" e "password" anche se consigliamo l'attivazione dell'autenticazione a due fattori (2FA) per fattori (ahahah) di sicurezza.
 
 ## È davvero fondamentale ricordarsi il codice persone e addirittura la matricola ?
 
+Si, questi infatti vengono usati per rendere anonimi gli esiti degli esami quando vengono pubblicati e vi viene chiesto di scriverli sui fogli d'esame per lo stesso motivo. E anche come "double-check"
+
 ## Sapere la differenza tra un numero pari e dispari è fondamentale ?
+
+Si, se volete vivere non essere bannati.
 
 # Corso sulla Sicurezza
 
 ## Cosa sono i corsi sulla sicurezza che appaiono sui servizi online ?
 
+I corsi sulla sicurezza sono una garanzia che il politecnico deve avere affinchè in caso di emergenza si sappiano le procedure da svolgere, che molte volte sono banale buon senso.
+
 ## È vero che se li faccio tutti vinco un gelato ?
+
+No, ma se lo fate potete vincere uno dei seguenti premi:
+
+- Un bacio da Gabriele Viganò
+- Un bacio dalla pres.
+- La camicia di Elia
 
 ## Non ho voglia di fare il corso base, mi serve ?
 
+Si, cioè non per sopravvivere, ma vi serve per poter sostenere gli esami. Ragazzi forza dura 10 min e sono domande sceme tipo "Se prende fuoco un aula, devo chiudere la porta e non dirlo a nessuno ? Si/No"
+
 ## Non mi hanno fatto fare l'esame perché non ho fatto il corso base, cosa posso fare ?
 
+Fare il corso base.
+
 ## Quali corsi devo fare ?
+
+Dipende dal corso di laurea, quello base serve a tutti. Se il tuo corso di laurea richiede l'utilizzo di laboratori è possibile che tu debba fare anche quelli specifici per quei laboratori, comunque la pagina e i professori vi diranno se vi serviranno altri corsi oltre quello base.
 
 # Come funziona il piano degli studi
 
@@ -303,65 +391,139 @@ Si, al politecnico la maggior parte degli insegnamenti NON richiede propedeucit�
 
 ## È Luglio, sono al mare e il PoLiTeCNicO di MiLANo ha osato non pubblicare ancora l'orario, posso dirlo a mamma e papà ?
 
+Si puoi dirlo e spero ti facciano fare la rinuncia.
+
 ## Come vedo l'orario ?
+
+Per poter visualizzare l'orario è necessario accedere alla PolimiAPP e andare sulla sezione "Calendario" o Agenda, non ricordo, oppure tramite "Servizi Online" -> "Orario lezioni". Ma se state cercando di capire se l'orario può essere uscito allora c'è un piccolo trucchetto, infatti andando su [Manifesto degli studi polimi](https://onlineservices.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?evn_DEFAULT=evento&lang=IT) 
+
+- Andare su "Orario Personalizzato" sulla colonna di sinistra e cliccare "Abilita"; 
+- Inserire il proprio "Cognome e Nome" questo serve per assegnare lo scaglione corretto; 
+- Cliccate su "Procedi sulla composizione del tuo orario"; 
+- Selezionare la propria scuola di appartenenza (Ingegneria Industriale e dell'Informazione se un corso di ingegneria che non sia Civile o delle Costruzioni) e il proprio corso di laurea, assicurarsi di aver messo l'anno accademico corrente "anno_attuale/anno_successivo"; 
+- In basso apparirà la tabella riguardante il primo anno del vostro corso di laurea e potrete notare il simbolo di un orologio con un "+" verde, cliccate su tutti quegli insegnamenti, solo quelli del primo anno; 
+- Cliccate poi su "Visualizza orario" presente sulla colonna di sinistra sotto "Orario personalizzato"; 
+- Qui potrete visualizzare in anteprima l'orario, una volta pubblicato in maniera ufficiosa.
 
 ## Cos'è uno scaglione ?
 
+Lo scaglione è la maniera di divisione di un corso di laurea, questo in fatti viene diviso in scaglioni, la divisione viene fatta per cognomi. 
+
+Per poter vedere il proprio scaglione di riferimento basterà aspettare l'uscità dei gruppi degli scaglioni, a quel punto vi basterà conoscere il proprio cognome (facile) e l'alfabeto (qui è dove molti cadono). 
+
+Se siete impazienti invece vi basterà seguire la procedura sopra elencata e al posto di cliccare sul "+" verde vi basterà cliccare sul nome di un qualsiasi insegnamento del primo anno e potrete vedere il "+" verde affianco al vostro scaglione. ATTENZIONE: È possibile che gli scaglioni vengano cambianti poco prima dell'inizio delle lezioni, controllate sempre l'orario.
+
 ## Non so la differenza tra un numero pari o dispari, cosa merito ?
+
+La rinuncia agli studi.
 
 ## Ho 6 ore di fila, con chi posso lamentarmi ?
 
+Con nessuno, ci siamo passati tutti. Purtroppo il primo anno è piano per dare le basi.
+
 ## Mi sembra ingiusto che io abbia tutta la settimana con le lezioni ma il mio amico dell'altro scaglione abbia il giorno libero, posso cambiare scaglione ?
+
+NO non puoi cambiare scaglione. (godo)
 
 ## Come cambiare scaglione.
 
+Il cambio di scaglione può essere richiesto alla segreteria tramite "Servizi Online" -> "Nuova Richiesta" e viene concesso solo in rarissimi casi e per motivazioni serissime.
+
 ## Posso mettere l'orario su Google Calendar ?
+
+Si, è possibile mettere l'orario su Google Calendar; basterà infatti andare su polimi app, andare sulla sezione dedicata all'orario e cliccare in alto a destra il simbolo con una freccia verso l'alto e cliccare su "Copia link iCal" andate poi tramite pagina web e modalità Desktop sulla pagina del vostro calendario preferito e cercate "imposta tramita ical" o "importa calendario", infine incollate il link e cliccate su importa.
 
 ## Oggi piove e non ho voglia di andare a lezione, ma il prof non vuole avviare lo streaming. Cosa posso fare ?
 
+Andare a lezione.
+
 ## Qual è l'orario minimo e massimo per le lezioni ?
+
+Minimo non esiste, ma le lezioni sono sempre nella fascia 8 - 20, oltre non vanno.
 
 ## Cosa sono le squadre ?
 
+Le squadre sono il modo di dividere uno scaglione in sotto-scaglioni, infatti per alcune esercitazioni sarete divisi in "Squadra 1" -> codice_persona_dispari e "Squadra 2" -> codice_persona_pari.
+
 ## Ho due lezioni allo stesso orario, come faccio ?
+
+Controlla bene che non siano esercitazioni divise in squadre, queste infatti si svolgono in stesso orario ma aulee diverse.
 
 ## Credo ci sia un problema con il mio orario, è bellissimo.
 
+YAY (e così parte l'aggiornamento di ArchLinux)
+
 ## Le lezioni hanno frequenza obbligatoria ?
 
+No, ma fortemente consigliata.
+
 ## Posso seguire il prof di un altro scaglione ?
+
+Si, puoi ma attento infatti è possibile che all'esame la parte di teoria sia personalizzata per docente per mettere teoremi e dimostrazioni fatte da quello specifico docente.
 
 # Precorsi e corsi di ripasso
 
 ## Cosa sono i precorsi / corsi di ripasso? 
 
+Da chiedere
+
 ##  Come ci si iscrive ai corsi di ripasso di matematica e fisica?
+
+Da chiedere
 
 ## Arriva una mail di conferma dopo l'iscrizione ai corsi di ripasso?
 
+Da chiedere
+
 ## Ci si può iscrivere e poi non andare sempre, o è obbligatoria la presenza continuativa?
 
-## Cosa sono i MOOCs di Polimi Open Knowledge (POK)? Vanno fatti prima dei precorsi?
+Da chiedere
+
+## Cosa sono i MOOCs di Polimi Open Knowledge (POK)? 
+
+Sono corsi mirati su uno specifico argomento, al completamento viene rilasciato un badge che ne certifica le competenze.
+
+### Vanno fatti prima dei precorsi?
+
+Da chiedere
 
 ## A chi conviene fare i precorsi ?
+
+A tutti in generale, ma mirato per gli istituti con parte matematico-scientifica indebolita.
 
 # Lezione 0
 
 ## Cos'è ?
 
+È un giro al politecnico prima delle lezioni vere e proprie, vengono fatti incontri con molti organi di rappresentanza e avrete la possibilità di assistere alla presentazione ufficiale del vostro corso di studi in cui potrete conoscervi tra voi e conoscere i vostri rappresentanti.
+
 ## È vero che chi ha scritto questa guida sarà alla lezione zero e farà gli autografi ?
+
+Si, confermo sono quello che ha scritto la guida.
 
 ## Serve ?
 
+Si, molto utile per ambientarsi e iniziare a conoscervi.
+
 ## È obbligatoria ?
+
+No.
 
 ## Cos'è il tutorato per le matricole ?
 
+Da chiedere
+
 ## Cos'è il Welcome Desk ?
+
+Da chiedere.
 
 ## Bisogna iscriversi per partecipare alla lezione zero ?
 
+Da chiedere.
+
 ## Ci sono eventi simili nei campus territoriali (Cremona, Lecco, Piacenza)?
+
+Da chiedere.
 
 # Come funzionano gli appelli d'esame
 
@@ -395,89 +557,175 @@ No, i docenti non hanno nella dieta "Studenti che mi scrivono mail" quindi non a
 
 # OFA di Inglese
 
+L'OFA di inglese viene assegnato se duante il test d'ingresso non si registra un punteggio pari o superiore a $24/30$.
+
 ## Come si recupera ?
+
+- Ridando il test d'inglese, prenotabile a questo [link](https://www.polimi.it/studenti/requisiti-linguistici/enti-esterni)
+- Consegnando una certificazione valida di uno di questi enti: [link ai certificati](https://www.polimi.it/studenti/requisiti-linguistici/studenti-dei-corsi-di-laurea-triennale-in-italiano)
 
 ## C'è una scadenza ?
 
+Si, l'anno accademico. Se non si recupera entro la fine dell'anno accademico infatti non sarà possibile iscriversi al secondo anno.
+
 ## Esistino corsi per recuperare l'OFA ?
+
+Si il politecnico offre corsi che aiutano al recupero presenti a questi link: [Link corsi](https://www.polimi.it/formazione/corsi-di-lingua) e [Link MOOCS](https://www.polimi.it/formazione/moocs-polimi-open-knowledge)
 
 # Residenze e Alloggi
 
 ## Come si prenota una stanza nelle residenze polimi ?
 
+Da chiedere
+
 ## Dopo quanto tempo dal pagamento confermano l'assegnazione in residenza?
+
+Da chiedere
 
 ## Come si vede se ci sono ancora posti disponibili nelle residenze?
 
+Da chiedere
+
 ## Quando escono le graduatorie per i posti letto?
+
+Da chiedere
 
 ## Quali sono le residenze universitarie più consigliate vicino a Leonardo/Bovisa?
 
+Da chiedere
+
 ## Quanto costa mediamente una stanza singola vicino al campus Leonardo?
+
+In media intorno agli 800/1000 € al mese.
 
 ## Quali zone di Milano sono consigliate/sicure per trovare casa?
 
+Città studi, Lambrate, Loreto e Argonne + da chiedere.
+
 ## C'è un gruppo per cercare coinquilini o appartamenti a Milano?
+
+Si è a questo [link](https://t.me/joinchat/jmpNOitFNFw1MzJk)
 
 ## Come si ottiene il riconoscimento dello status di fuorisede?
 
+Dal sito del poli "Per essere considerato ‘fuori sede’ - e ottenere i benefici nella misura prevista dal Bando per tale status - lo studente deve esplicitamente chiederlo, dimostrando di aver preso alloggio a titolo oneroso nel Comune dove ha sede il corso frequentato, o nelle aree circostanti, per un periodo non inferiore a 10 mesi continuativi"
+
+Tramite domanda per la DSU.
+
 ## Per la borsa di studio da fuori sede serve il contratto registrato?
+
+Si.
 
 # Trasporti
 
 ## Esistono agevolazioni per gli abbonamenti ATM per studenti del Polimi?
 
+No, esiste l'agevolazione per gli Under26 di ATM.
+
 ## Quanto costa l'abbonamento ATM? Ci sono sconti con ISEE?
+
+Con l'agevolazione costa 22€ al mese oppure 200€ l'anno.
+
+No, non sono presenti sconti per ISEE bassi. (Da chiedere)
 
 ## Conviene Bikemi o Lime per gli spostamenti in zona Città Studi?
 
+È completamente soggettiva la cosa.
+
 ## Ci sono agevolazioni Trenitalia/Frecciarossa per fuorisede?
+
+Si, infatti il poli presenta uno sconto del 20% per i freccia tramite registrazione con il bando qui presente [bando] (https://www.polimi.it/campus-e-servizi/convenzioni-e-agevolazioni/trenitalia)
 
 # Polimi APP e altri software
 
 ## Come si aggiunge la foto profilo nei Servizi Online / app Polimi?
 
+- Servizi Online: Nella pagina principale troverai sulla colonna di sinistra i tuoi dati e un "Aggiorna i tuoi dati" cliccando si arriva a una pagina e sotto la tua foto cliccare su "Gestisci".
+- Polimi APP: cliccare in su "IO e il Polimi" e in alto a destra su "Servizi Online" e seguire la procedura sopra.
+
 ## Cos'è Webeep? Come si accede?
+
+WeBeep è un portale Moodle sul quale verranno caricati tutti gli appunti, esercizi e temi d'esame dei vostri corsi.
+
+Per accedere basta andare su [WeBeep.polimi.it](https://webeep.polimi.it/login/index.php) e accedere tramite credenziali polimi. Attenzione: ci mettono un pò ad abilitare tutti gli studenti.
 
 ## Cos'è Polimi Open Knowledge (POK)? Come ci si registra?
 
+Una una piattaforma di corsi online gratuiti chiamati MOOC (Massive Open Online Courses).
+
+Per iscriversi basta entrare sulla pagina e fare il login con le credenziali polimi, selezionare il corso che vi piace di più e iscriversi.
+
 ## Come si accede a Microsoft 365 / Teams con le credenziali Polimi?
+
+Non ricordo
 
 ## Il Polimi fornisce licenze Office anche per Mac?
 
+Da chiedere
+
 ## Come vedo tutti i software offerti ?
+
+Tutti i software offerto sono presenti in questa [pagina](https://www.software.polimi.it/studenti/)
 
 # Bibblioteca
 
 ## Si può prenotare un posto in biblioteca?
 
+Da chiedere
+
 ## Come si accede agli e-book della biblioteca ?
+
+Da chiedere
 
 ## La biblioteca è aperta il sabato?
 
+Da chiedere, ma credo di si.
+
 # Wi-Fi
+
+È possibile configurare la rete Wi-Fi seguendo le istruzioni in questa [pagina](https://www.ict.polimi.it/wifi/connessione-permanente/)
 
 # Vita in Campus
 
 ## Come funziona la mensa del Polimi? Quanto costa un pasto?
 
+Da chiedere
+
 ## Ci sono buoni pasto o agevolazioni per mangiare?
+
+Si, tramite DSU.
 
 ## Come funzionano gli armadietti? Vanno prenotati? Quanto sono disponibili?
 
+Da chiedere.
+
 ## La palestra del Polimi (Giurati) com'è? Quanto costa? È affollata ?
+
+Da chiedere.
+
+Il listino prezzi si trova in questa [pagina](https://www.sport.polimi.it/iscriviti-e-prenota/studenti-polimi)
 
 ## Cos'è il festival dell'ingegneria? Le lezioni vengono sospese ?
 
+Da chiedere
+
 ## Cos'è l'aperitivo delle matricole?
 
+Ci pensa Gabriele
+
 ## Dove si possono trovare libri usati o scambiare materiali?
+
+È possibile trovarli a questo [link](https://t.me/joinchat/6nmuXXhAOr1mYTJk)
 
 # Cambio corso
 
 ## Se mi sono immatricolato a un corso di ripiego, posso passare al corso preferito l'anno prossimo?
 
+Si, tutti i requisiti sono elencati in questa [pagina](https://www.polimi.it/studenti/casi-particolari/passaggi-ai-corsi-di-laurea-di-ingegneria-e-auic-ingegneria-edile-e-delle-costruzioni)
+
 ## Si può trasferire da una sede territoriale (Cremona, Lecco) a Milano Leonardo?
+
+Da chiedere ma credo di si.
 
 
 # Che cos'è il Manifesto degli Studi
@@ -538,7 +786,7 @@ Lista delle pagine instagram dei ccs:
 
 # Cosa sono le associazioni
 
-bodybodybody
+Le associazioni studentesche sono gruppi di studenti che hanno una passione in comune, come costruire razzi, la cybersecurity, fare radio oppure anche una religione. È possibile vedere l'elenco delle associazioni del poli in questa [pagina](https://www.polimi.it/studenti/associazioni-degli-studenti)
 
 # Come diventare admin di PoliNetwork
 
@@ -546,14 +794,6 @@ Per diventare admin di politework basta contattare un qualsiasi admin dei gruppi
 
 # Canali di comunicazione di PoliNetwork
 
-Instagram: @polinetwork
+Instagram: [@polinetwork](https://www.instagram.com/polinetwork_/)
 
 [Sito web](polinetwork.org)
-
-
-# GUIDA alla scelta del computer per il tuo corso di laurea
-
-In questa guida il nostro scopo è darvi tutti i requisiti che il vostro computer deve rispettare a seconda del corso di laurea che affrontate, ne approfittiamo per ricordarvi che PoliNetwork ha un gruppo telegram dedicato: "Consigli per acquisto PC" (per trovare il link chiedetelo agli admin, altrimenti basta andare nel sito del polinetwork e cercarlo nella sezione apposita)
-
-## Requisiti computer per Ingegneria Aereospaziale
-
