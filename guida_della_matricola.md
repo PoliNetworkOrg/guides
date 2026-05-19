@@ -14,7 +14,7 @@ Questa è una guida offerta da Polinetwork per gli studenti del Politecnico di M
 
 La guida può subire modifiche durante il corso degli anni, assicurarsi che la guida che si sta leggendo sia l'ultima versione.
 
-Versione: $\alpha - 0.1$
+Versione: $\alpha - 0.2$
 
 Contributi: [Niccolò Papini](https://drive.google.com/uc?export=download&id=1H1ZpMxJEGjITsQTOCewTA2Pb4fh74yjL)
 
@@ -64,6 +64,8 @@ Vuol dire che purtroppo per questa graduatoria non sei stato preso in nessun cor
 
 ## È possibile cambiare le preferenze ?
 
+È possibile cambiare le preferenze indicate quando hai fatto il test fino a prima della domanda di immatricolazione.
+
 ## Quante graduatorie esistono ?
 
 Esistono 8 graduatorie e sono suddivise in 4 per la seconda fase, 2 per la terza e 2 per l'ultima fase. La prima fase è limitata a chi svolge il test al quarto anno. Per le date è possibile visualizzarle al seguente link: [Date graduatorie TOL-I](https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/punteggi-e-formulazione-delle-graduatorie)
@@ -77,6 +79,10 @@ Se risulti "PRENOTATO" vuol dire che non sei stato preso al corso in prima posiz
 No, il voto di maturità non influisce.
 
 ## È necessario aver messo l'ISEE entro la prima graduatoria?
+
+No ma fortemente consigliato per eventuali agevolazioni. L’ISEE ci mette circa 10 giorni lavorativi a caricarsi e prima o poi andrà comunque fatto quindi la cosa migliore è caricarlo il prima possibile.
+
+Controllare che all’interno della propria certificazione ci sia scritta la specifica per l’università
 
 ## Qual è stato il punteggio minimo per il corso di laurea X ?
 
@@ -118,7 +124,7 @@ Pochi giorni.
 
 Si paga tramite servizi online, utilizzando PagoPA della banca oppure tramite CBILL se ti fai emettere il bollettino.
 
-Si puoi pagarlo in tabaccheria.
+Si puoi pagarlo in tabaccheria, puoi pagarlo anche in posta.
 
 ## L'importo della prima rata viene calcolato automaticamente in base all'ISEE ?
 
@@ -205,8 +211,8 @@ Non preoccuparti hai tanti metodi per comunicare e conoscere i rappresentanti:
 
 [Pagina con le mail dei rappresentanti della scuola AUIC (Architettura Urbanistica e Ingegneria delle Costruzioni)](https://www.auic.polimi.it/la-scuola/rappresentanti-degli-studenti)
 
-3. Pagina instagram del tuo CCS: infatti molti rappresentati degli studenti hanno un pagina instagram che aggiornano e usano per comunicazioni con i propri studenti, come: Novità, Eventi oppure per ricevere segnalazioni e chiedere feedback.
-4. I gruppi whatsapp: infatti dentro i gruppi whatsapp tra gli admin si trovano alcuni rappresentati degli studenti presenti e attenti per aiutarvi in caso di necessità. Quindi usateli per chiedere assistenza a loro direttamente.
+3. Pagina instagram del tuo CCS: infatti molti rappresentanti degli studenti hanno un pagina instagram che aggiornano e usano per comunicazioni con i propri studenti, come: Novità, Eventi oppure per ricevere segnalazioni e chiedere feedback.
+4. I gruppi whatsapp: infatti dentro i gruppi whatsapp tra gli admin si trovano alcuni rappresentanti degli studenti presenti e attenti per aiutarvi in caso di necessità. Quindi usateli per chiedere assistenza a loro direttamente.
 
 ## Sono al primo anno e mi sono appena immatricolato cosa NON devo assolutamente fare ?
 
@@ -247,10 +253,15 @@ Per richiedere la borsa di studio è necessario tenersi informati su quando usci
 
 ## L'IBAN di Revolut è accettato per la DSU ?
 
-
+Sì tutte le carte anche digitali dotate di un IBAN vanno bene.
 
 ## Il DSU è compatibile con altre borse di studio ?
 
+No, la borsa non è cumulabile (pagina 19 bando). Viene fatta eccezione per eventuali agevolazioni internazionali,
+
+Se si sceglie di accettare una borsa non DSU, bisogna comunicarlo entro 10 giorni dall’accettazione della prima così da venire rimossi dalla graduatoria. 
+
+E non è compatibile la DSU nemmeno con il contributo MIUR per le spese di locazione.
 
 
 ## Entro quando esce la graduatoria ?
@@ -263,7 +274,7 @@ Mettere condizioni qui è abbastanza inutile dato che possono variare da anno in
 
 ## Ci sono bandi per le borse di studio riservate alle donne nello STEM ?
 
-Credo di si ma devo chiedere
+Si, sono presenti a questa [pagina](https://www.polimi.it/campus-e-servizi/pari-opportunita-e-inclusione/parita-di-genere/girlspolimi)
 
 ## La DSU si prende solo al primo anno ?
 
@@ -271,7 +282,7 @@ No, la DSU può essere richiesta ogni anno e se si vuole partecipare bisogna par
 
 ## Un contratto a cedolare secca rinnovabile ogni 6 mesi è valido per la borsa fuori sede ?
 
-Da chiedere
+Non copre il periodo ottobre luglio quindi non è valido (andrebbe chiesta conferma non ne sono certo)
 
 # PoliCard
 
@@ -370,7 +381,7 @@ IL piano degli studi è un piano in cui dichiari gli esami che hai intenzione di
 
 Tramite la pagina dei servizi online del politecnico è possibile "Presentare" (Settembre) o "Modificare"(Febbraio) il piano degli studi.
 
-- Presentare: In questa fase è possibile presentare tutti i corsi che si intendono svolgere dal primo al secondo semestre. Annualmente è possibile presentare massimo $80CFU$ ma attenti che superata la soglia di $74 CFU$ si pagherà una maggiorazione del $30%$ sulla seconda rata.
+- Presentare: In questa fase è possibile presentare tutti i corsi che si intendono svolgere dal primo al secondo semestre. Annualmente è possibile presentare massimo $80\ CFU$ ma attenti che superata la soglia di $74\ CFU$ si pagherà una maggiorazione del $30\%$ sulla seconda rata.
 - Modificare: In questa fase si possono cambiare solo i corsi del secondo semestre presentati con altri corsi del secondo semestre.
 
 Se si modifica o si presenta un piano diverso da quello consigliato allora questo dovrà essere approvato prima di diventare definitivo.
@@ -449,6 +460,10 @@ Le squadre sono il modo di dividere uno scaglione in sotto-scaglioni, infatti pe
 
 Controlla bene che non siano esercitazioni divise in squadre, queste infatti si svolgono in stesso orario ma aulee diverse.
 
+Qualora questo non fosse il caso, rivolgiti ai tuoi rappresentanti: loro sapranno cosa fare e chi contattare per risolvere. 
+
+NB: qualora siano corsi di anni diversi a coincidere non c’è nulla che tu possa fare
+
 ## Credo ci sia un problema con il mio orario, è bellissimo.
 
 YAY (e così parte l'aggiornamento di ArchLinux)
@@ -465,19 +480,24 @@ Si, puoi ma attento infatti è possibile che all'esame la parte di teoria sia pe
 
 ## Cosa sono i precorsi / corsi di ripasso? 
 
-Da chiedere
+Sono corsi proposti dal Politecnico tenuti da docenti (non studenti) prima dell’inizio delle lezioni. 
+
+Credo siano erogati solo di fisica e matematica ma non ne sono sicuro.
 
 ##  Come ci si iscrive ai corsi di ripasso di matematica e fisica?
 
-Da chiedere
+Prima dell’inizio del corso viene mandato un form per iscriversi.
+
+Da me in realtà potevi anche semplicemente presentarti tanto a loro interessa poco ma eravamo in sette quindi boh a Milano non so. Anche a Milano c'è il form, mando i link nei gruppi matricole quando escono.
+
 
 ## Arriva una mail di conferma dopo l'iscrizione ai corsi di ripasso?
 
-Da chiedere
+No
 
 ## Ci si può iscrivere e poi non andare sempre, o è obbligatoria la presenza continuativa?
 
-Da chiedere
+Non è obbligatoria la presenza, ti autogestisci
 
 ## Cosa sono i MOOCs di Polimi Open Knowledge (POK)? 
 
@@ -485,7 +505,8 @@ Sono corsi mirati su uno specifico argomento, al completamento viene rilasciato 
 
 ### Vanno fatti prima dei precorsi?
 
-Da chiedere
+Sono paralleli; matematica e fisica coprono gli stessi argomenti. 
+È consigliato farli prima o comunque rinfrescarsi l’argomento specifico prima della lezione così da essere più sul pezzo.
 
 ## A chi conviene fare i precorsi ?
 
@@ -511,19 +532,21 @@ No.
 
 ## Cos'è il tutorato per le matricole ?
 
-Da chiedere
+Dei corsi gratuiti “di supporto” tenuti da studenti più grandi accettati dal politecnico
 
 ## Cos'è il Welcome Desk ?
 
-Da chiedere.
+Sono i banchi in rettorato o per il campus che ti danno la mappa del campus e info se le chiedi.
 
 ## Bisogna iscriversi per partecipare alla lezione zero ?
 
-Da chiedere.
+No, ma per alcune attività è possibile.
 
 ## Ci sono eventi simili nei campus territoriali (Cremona, Lecco, Piacenza)?
 
-Da chiedere.
+A Cremona c’è una lezione zero in cui viene presentato il campus e la vita universitaria. È il primo giorno di lezione.
+
+Viene poi aggiunto un welcome day solo per i gestionali più avanti (circa una settimana dopo)
 
 # Come funzionano gli appelli d'esame
 
@@ -570,17 +593,17 @@ Si, l'anno accademico. Se non si recupera entro la fine dell'anno accademico inf
 
 ## Esistino corsi per recuperare l'OFA ?
 
-Si il politecnico offre corsi che aiutano al recupero presenti a questi link: [Link corsi](https://www.polimi.it/formazione/corsi-di-lingua) e [Link MOOCS](https://www.polimi.it/formazione/moocs-polimi-open-knowledge)
+Si il politecnico offre corsi che aiutano al recupero presenti a questi link: [Link corsi](https://www.polimi.it/formazione/corsi-di-lingua) e [Link MOOCS](https://www.polimi.it/formazione/moocs-polimi-open-knowledge).
 
 # Residenze e Alloggi
 
 ## Come si prenota una stanza nelle residenze polimi ?
 
-Da chiedere
+[Link con tutte le info](https://www.residenze.polimi.it/tariffe/).
 
 ## Dopo quanto tempo dal pagamento confermano l'assegnazione in residenza?
 
-Da chiedere
+Le domande sulla residenza non so nulla le giro a uno del gruppo DSU più ferrato.
 
 ## Come si vede se ci sono ancora posti disponibili nelle residenze?
 
@@ -588,11 +611,11 @@ Da chiedere
 
 ## Quando escono le graduatorie per i posti letto?
 
-Da chiedere
+Le date quando escono i bandi e tutto metto tutto nei messaggi fissati gruppo DSU.
 
 ## Quali sono le residenze universitarie più consigliate vicino a Leonardo/Bovisa?
 
-Da chiedere
+[Link con tutte le info](https://www.residenze.polimi.it).
 
 ## Quanto costa mediamente una stanza singola vicino al campus Leonardo?
 
@@ -634,7 +657,7 @@ No, non sono presenti sconti per ISEE bassi. (Da chiedere)
 
 ## Ci sono agevolazioni Trenitalia/Frecciarossa per fuorisede?
 
-Si, infatti il poli presenta uno sconto del 20% per i freccia tramite registrazione con il bando qui presente [bando] (https://www.polimi.it/campus-e-servizi/convenzioni-e-agevolazioni/trenitalia)
+Si, infatti il poli presenta uno sconto del 20% per i freccia tramite registrazione con il bando qui presente [bando](https://www.polimi.it/campus-e-servizi/convenzioni-e-agevolazioni/trenitalia)
 
 # Polimi APP e altri software
 
@@ -657,7 +680,11 @@ Per iscriversi basta entrare sulla pagina e fare il login con le credenziali pol
 
 ## Come si accede a Microsoft 365 / Teams con le credenziali Polimi?
 
-Non ricordo
+Prima dell’inizio delle lezioni (dopo l’immatricolazione) viene inviata la mail con l’indirizzo di posta.
+
+Bisognerà andare su un qualunque prodotto della suite microsoft, inserire la mail per accedere come se fosse un profilo normale per essere indirizzati sulla pagina di accesso dei servizi online. 
+
+Si accede tramite loro.
 
 ## Il Polimi fornisce licenze Office anche per Mac?
 
@@ -679,7 +706,9 @@ Da chiedere
 
 ## La biblioteca è aperta il sabato?
 
-Da chiedere, ma credo di si.
+Sì, anzi, BCL BBL (rispettivamente ed.11 e BL28) sono aperte pure la domenica.
+
+Cremona: la biblioteca è aperta dal lunedì al venerdì dalle 9 alle 16.
 
 # Wi-Fi
 
@@ -689,19 +718,21 @@ Da chiedere, ma credo di si.
 
 ## Come funziona la mensa del Polimi? Quanto costa un pasto?
 
-Da chiedere
+Cremona: La mensa non esiste ancora. Quella che diventerà prossimamente la mensa attualmente è un aula con due microonde, due friggitrici ad aria e un paio di tostapane.
+
+
+Leonardo: Ci sono due mense di fronte all'acquario, con costi compresi tra 7 euro e i 9 euro. Una mensa al 26 leggermente più economica. 
+
 
 ## Ci sono buoni pasto o agevolazioni per mangiare?
 
-Si, tramite DSU.
+Si, tramite DSU,  per ottenerli basta essere idonei alla borsa di studio, anche non beneficiari, anche senza borsa di studio si hanno lo stesso i buoni pasto.
 
 ## Come funzionano gli armadietti? Vanno prenotati? Quanto sono disponibili?
 
-Da chiedere.
+Cremona: Sono presenti alcuni armadietti nello spazio tra l’ingresso dell’edificio 6 e la biblioteca. Vanno svuotati e liberati in giornata (entro le 19). Non possono essere prenotati, si arriva, si mette la roba dentro e si prende la chiave.
 
 ## La palestra del Polimi (Giurati) com'è? Quanto costa? È affollata ?
-
-Da chiedere.
 
 Il listino prezzi si trova in questa [pagina](https://www.sport.polimi.it/iscriviti-e-prenota/studenti-polimi)
 
@@ -773,7 +804,7 @@ I metodi per contattare i rappresentanti degli studenti sono molteplici:
 
 [Pagina con le mail dei rappresentanti della scuola AUIC (Architettura Urbanistica e Ingegneria delle Costruzioni)](https://www.auic.polimi.it/la-scuola/rappresentanti-degli-studenti)
 
-3. Pagina instagram del tuo CCS: infatti molti rappresentati degli studenti hanno un pagina instagram che aggiornano e usano per comunicazioni con i propri studenti, come: Novità, Eventi oppure per ricevere segnalazioni e chiedere feedback.
+3. Pagina instagram del tuo CCS: infatti molti rappresentanti degli studenti hanno un pagina instagram che aggiornano e usano per comunicazioni con i propri studenti, come: Novità, Eventi oppure per ricevere segnalazioni e chiedere feedback.
 
 Lista delle pagine instagram dei ccs:
 
@@ -781,7 +812,7 @@ Lista delle pagine instagram dei ccs:
 
 - CCS di Informatica e Computer Science: @cse_polimi
 
-4. I gruppi whatsapp: infatti dentro i gruppi whatsapp tra gli admin si trovano alcuni rappresentati degli studenti presenti e attenti per aiutarvi in caso di necessità. Quindi usateli per chiedere assistenza a loro direttamente.
+4. I gruppi whatsapp: infatti dentro i gruppi whatsapp tra gli admin si trovano alcuni rappresentanti degli studenti presenti e attenti per aiutarvi in caso di necessità. Quindi usateli per chiedere assistenza a loro direttamente.
 
 
 # Cosa sono le associazioni
