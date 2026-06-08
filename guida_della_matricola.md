@@ -14,7 +14,7 @@ Questa è una guida offerta da Polinetwork per gli studenti del Politecnico di M
 
 La guida può subire modifiche durante il corso degli anni, assicurarsi che la guida che si sta leggendo sia l'ultima versione.
 
-Versione: $\alpha - 0.2$
+Versione: $1.0$
 
 Contributi: [Niccolò Papini](https://drive.google.com/uc?export=download&id=1H1ZpMxJEGjITsQTOCewTA2Pb4fh74yjL)
 
@@ -26,7 +26,7 @@ IL TOL è il mezzo tramite cui il Politecnico di Milano verifica la tua preparaz
 
 Ad oggi la prova può essere svolta al quarto e al quinto anno.
 
-Se si svolge la prova al quarto anno e si supera con un punteggio $\geq 75/100$ si ha diritto ad un posto garantito in qualsiasi corso di laurea del poli per il quale si è svolto il test, TOL-I Ingegneria, ARCHED, Architettura, TOL-D Design o il Test per Urbanistica. $\implies$ svolgendo il test di ingresso in quarta vi farete un estate della quinta dopo la maturità in riva al mare mentre i vostri amici studieranno per i test delle loro università e potrete prenderli in giro.
+Se si svolge la prova al quarto anno e si supera con un punteggio $\geq 75/100$ si ha diritto ad un posto garantito in qualsiasi corso di laurea del poli per il quale si è svolto il test, TOL-I Ingegneria, ARCHED, Architettura, TOL-D Design o il Test per Urbanistica. $\implies$ svolgendo il test di ingresso in quarta vi farete un'estate della quinta dopo la maturità in riva al mare mentre i vostri amici studieranno per i test delle loro università e potrete prenderli in giro.
 
 Se invece svolgete il TOL al quinto anno, dovrete partecipare alle graduatorie che solitamente sono a luglio-agosto $\implies$ anche voi vi godrete l'estate.
 
@@ -45,8 +45,8 @@ Avete due metodi principalmente:
 
 Aspettare che si aprano le graduatorie, le graduatorie sono di due tipi: anticipata e standard.
 
-- Graduatoria ad accesso anticipato: si apre 2 settimane prima della prima graduatoria standard di base (ma vi chiediamo di confermare guardando il link in fondo a questo sottocapitolo) e possono iscrivercisi solo gli studenti che hanno svolto il TOL al quarto anno di superiori, RICORDATEVI DI ISCRIVERVI ALTRIMENTI PERDERTE L'OCCASIONE E PARTECIPERETE SOLO A QUELLE STANDARD.
-- Graduratoria standard: questa è per tutti coloro che abbiano ricevuto un punteggio TOL $\geq 30/100$ e si svolge come una normale graduatoria quindi a seconda dei posti disponibili si accettano tutti coloro che rientrano nel range e dopo una fase di immatricolazione si scorre aprendo la seconda graduatoria e così via. Si ricorda che se NON ci si dovesse iscrivere alla graduatoria allora NON ci si prenderà parte pure avendo fatto un punteggio di $100/100$ al TOL.
+- Graduatoria ad accesso anticipato: si apre 2 settimane prima della prima graduatoria standard di base (ma vi chiediamo di confermare guardando il link in fondo a questo sottocapitolo) e possono iscrivercisi solo gli studenti che hanno svolto il TOL al quarto anno di superiori, RICORDATEVI DI ISCRIVERVI ALTRIMENTI PERDERETE L'OCCASIONE E PARTECIPERETE SOLO A QUELLE STANDARD.
+- Graduatoria standard: questa è per tutti coloro che abbiano ricevuto un punteggio TOL $\geq 30/100$ e si svolge come una normale graduatoria quindi a seconda dei posti disponibili si accettano tutti coloro che rientrano nel range e dopo una fase di immatricolazione si scorre aprendo la seconda graduatoria e così via. Si ricorda che se NON ci si dovesse iscrivere alla graduatoria allora NON ci si prenderà parte pure avendo fatto un punteggio di $100/100$ al TOL.
 
 Vi lasciamo il link alla pagina per scoprire le date delle varie graduatorie. [Date graduatorie TOL-I](https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/punteggi-e-formulazione-delle-graduatorie)
 
@@ -96,7 +96,7 @@ Per immatricolarti ti verrà chiesto di pagare la prima rata. Una volta conferma
 
 ### E se mi dimentico ?
 
-Se ti dimentichi ci dispiace informarti che NON potrai immatricolarti e verrai considerato come rinuciatario per quest'anno constringenti a ripetere tutto (TOL e Graduatoria) l'anno dopo..
+Se ti dimentichi ci dispiace informarti che NON potrai immatricolarti e verrai considerato come rinunciatario per quest'anno costringendoti a ripetere tutto (TOL e Graduatoria) l'anno dopo...
 
 P.S. Questo non si applica se avevi il flag "PRENOTATO"
 
@@ -144,7 +144,7 @@ Il Politecnico converte alcuni test dando un punteggio equivalente TOL, per sape
 
 ## Voto di maturità
 
-Il voto  di mmaturità non dà nessuna agevolazione a livello di tasse o ingresso, serve al poli solo come check per assicurarsi che tu abbia un diploma.
+Il voto  di maturità non dà nessuna agevolazione a livello di tasse o ingresso, serve al poli solo come check per assicurarsi che tu abbia un diploma.
 
 ### Entro quando devo inserirlo ?
 
@@ -162,7 +162,7 @@ Si richiede tramite CAF oppure online dal sito dell'INPS se si è dei pro, perso
 
 ### Devo richiedere un ISEE particolare ?
 
-Si, va richiesto l'ISEE per uso universitario. Se si richiiede solo l'ISEE standard questo non sarà valido per il calcolo della fascia per il pagamento della tassa e vi verrà data la fascia massima.
+Si, va richiesto l'ISEE per uso universitario. Se si richiede solo l'ISEE standard questo non sarà valido per il calcolo della fascia per il pagamento della tassa e vi verrà data la fascia massima.
 
 ### Entro quando va inserito per il pagamento della prima rata ?
 
@@ -178,7 +178,7 @@ L'ISEE va inserito prima dell'uscita della seconda rata, quindi prima di maggio.
 
 ### Cosa succede se mi dimentico ?
 
-Se ci si dimentica di inserire l'isee entro scandeza, verrà assegnata la fascia di reddito massima e quindi bisognerà pagare il massimo della rata. Ma non panicate, se infatti inserirete l'isee in ritardo allo scadere della scadenza per pagare la rata vi verrà data possibilità di pagare la rata della vostra fascia con una mora di 250€ per i ritardi.
+Se ci si dimentica di inserire l'isee entro scadenza, verrà assegnata la fascia di reddito massima e quindi bisognerà pagare il massimo della rata. Ma non panicate, se infatti inserirete l'isee in ritardo allo scadere della scadenza per pagare la rata vi verrà data possibilità di pagare la rata della vostra fascia con una mora di 250€ per i ritardi.
 
 # Ecco le cose da fare se ti sei appena immatricolato
 
@@ -226,7 +226,7 @@ Questo infatti è compilato in automatico al primo anno e qualsiasi azione manua
 
 Esistono 2 tasse: una viene pagata ad Agosto o comunque per immatricolarsi, mentre la seconda si paga verso Aprile - Maggio
 
-## Qual'è la scadenza della seconda rata ?
+## Qual è la scadenza della seconda rata ?
 
 La seconda rata ha una scadenza variabile, comunque la scadenza si aggira sempre intorno a fine Maggio.
 
@@ -236,7 +236,7 @@ SI, l'isee regna sovrano. Infatti con questo si avrà la possibilità di avere l
 
 # DSU
 
-La DSU è anche conosciuta come Borsa per il Diritto allo Studio, dà diversi benefici hai vincitori come:
+La DSU è anche conosciuta come Borsa per il Diritto allo Studio, dà diversi benefici ai vincitori come:
 
 - Tasse dimezzate o nulle;
 - Buoni pasto;
@@ -282,13 +282,13 @@ No, la DSU può essere richiesta ogni anno e se si vuole partecipare bisogna par
 
 ## Un contratto a cedolare secca rinnovabile ogni 6 mesi è valido per la borsa fuori sede ?
 
-Non copre il periodo ottobre luglio quindi non è valido (andrebbe chiesta conferma non ne sono certo)
+Non copre il periodo ottobre-luglio quindi non è valido (andrebbe chiesta conferma non ne sono certo)
 
 # PoliCard
 
 ## Cos'è ?
 
-La PoliCard è sostanzialmente un badge con potenziale di prepagata, la policard mi servirà per poter usufruire di molti servizi al politecnico: Accesso in bibblioteca, parcheggio biciclette e accesso in alcune aree che ri richiedono il riconoscimento con Badge.
+La PoliCard è sostanzialmente un badge con potenziale di prepagata, la policard mi servirà per poter usufruire di molti servizi al politecnico: Accesso in biblioteca, parcheggio biciclette e accesso in alcune aree che richiedono il riconoscimento con Badge.
 
 ## Sono passati ben 3 giorni e non ho ancora ricevuto la mia policard, a chi posso sporgere denuncia ?
 
@@ -300,7 +300,7 @@ No, ma tranquillo non ti sei perso nulla.
 
 ## Sono iniziate le lezioni e non ho ancora la policard, che cosa posso fare ?
 
-Ok, questo non è un problemone ma è una cosa antipatica ti capisco. Innanzitutto è normale non preoccuparti, succede di consegne in ritardo, prima di tutto assicurati di non averla ricevuta al tuo indirizzo di residenza (non quello di domicilio). Seconda cosa che si può fare è dare un'altra settimana dall'inizio delle lezioni, infatti la policard è affidata ad entri di consegna che possono creare ritardi. Terzo, se è passata la settimana e ancora niente scrivi alla segreteria una mail per sicurezza la procedura è: "Servizi Online" -> "Nuova Richiesta".
+Ok, questo non è un problemone ma è una cosa antipatica ti capisco. Innanzitutto è normale non preoccuparti, succede di consegne in ritardo, prima di tutto assicurati di non averla ricevuta al tuo indirizzo di residenza (non quello di domicilio). Seconda cosa che si può fare è dare un'altra settimana dall'inizio delle lezioni, infatti la policard è affidata ad enti di consegna che possono creare ritardi. Terzo, se è passata la settimana e ancora niente scrivi alla segreteria una mail per sicurezza la procedura è: "Servizi Online" -> "Nuova Richiesta".
 
 ## Come si attiva la prepagata PoliCard ?
 
@@ -321,13 +321,10 @@ Ripeto a mio parere no, ma può tornare comodo.
 
 La mail del poli per noi studenti è standard: nome.cognome@mail.polimi.it il nome è seguito da dei numeri se sono presenti omonimi (nome e cognome già registrati) è anche possibile usare un secondo indirizzo, che in realtà è connesso al primo: codice_persona@polimi.it
 
-## Posso usare la mail del poli per iscrivermi a un sito porno ?
-
-Si, puoi.
 
 ## Mi stanno arrivando mail scam sulla mail del poli, che faccio ?
 
-È normale, tranne se hai fatto quello scritto alla domanda sopra. Il poli manda periodicamente finte mail scam per sensibilizzare sulla sicurezza in rete.
+È normale, il poli manda periodicamente finte mail scam per sensibilizzare sulla sicurezza in rete.
 
 ## Quali sono le credenziali del poli ?
 
@@ -347,17 +344,9 @@ Si, se volete vivere non essere bannati.
 
 I corsi sulla sicurezza sono una garanzia che il politecnico deve avere affinchè in caso di emergenza si sappiano le procedure da svolgere, che molte volte sono banale buon senso.
 
-## È vero che se li faccio tutti vinco un gelato ?
-
-No, ma se lo fate potete vincere uno dei seguenti premi:
-
-- Un bacio da Gabriele Viganò
-- Un bacio dalla pres.
-- La camicia di Elia
-
 ## Non ho voglia di fare il corso base, mi serve ?
 
-Si, cioè non per sopravvivere, ma vi serve per poter sostenere gli esami. Ragazzi forza dura 10 min e sono domande sceme tipo "Se prende fuoco un aula, devo chiudere la porta e non dirlo a nessuno ? Si/No"
+Si, cioè non per sopravvivere, ma vi serve per poter sostenere gli esami. Ragazzi forza dura 10 min e sono domande sceme tipo "Se prende fuoco un'aula, devo chiudere la porta e non dirlo a nessuno ? Si/No"
 
 ## Non mi hanno fatto fare l'esame perché non ho fatto il corso base, cosa posso fare ?
 
@@ -392,7 +381,7 @@ Non proprio, bisogna inserire i corsi in ordine di anno, quindi prima tutti quel
 
 ## È possibile sorvolare questa regola ?
 
-NO, o meglio non è possibile nel caso di corsi arretrati ma è possibile nel caso di corsi degli anni superiori di uno. (Esempio pratico: sono al primo anno e ho tutti i corsi del primo anno nel piano, ma sono sadico e voglio inserire corsi del terzo, posso inserire quei corsi come sovrannumerari). L'esempio mostra come se si ci trova a un anno superiorie al primo sia inutile utilizzare questi trucchetti dato che una volta inseriti tutti i corsi del proprio anno si possono aggiungere tranquillamente quelli dell'anno dopo.
+NO, o meglio non è possibile nel caso di corsi arretrati ma è possibile nel caso di corsi degli anni superiori di uno. (Esempio pratico: sono al primo anno e ho tutti i corsi del primo anno nel piano, ma sono sadico e voglio inserire corsi del terzo, posso inserire quei corsi come sovrannumerari). L'esempio mostra come se ci si trova a un anno superiore al primo sia inutile utilizzare questi trucchetti dato che una volta inseriti tutti i corsi del proprio anno si possono aggiungere tranquillamente quelli dell'anno dopo.
 
 ## Posso fare Analisi 2 prima di Analisi 1?
 
@@ -694,7 +683,7 @@ Da chiedere
 
 Tutti i software offerto sono presenti in questa [pagina](https://www.software.polimi.it/studenti/)
 
-# Bibblioteca
+# Biblioteca
 
 ## Si può prenotare un posto in biblioteca?
 
