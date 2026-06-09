@@ -290,13 +290,9 @@ Non copre il periodo ottobre-luglio quindi non è valido (andrebbe chiesta confe
 
 La PoliCard è sostanzialmente un badge con potenziale di prepagata, la policard mi servirà per poter usufruire di molti servizi al politecnico: Accesso in biblioteca, parcheggio biciclette e accesso in alcune aree che richiedono il riconoscimento con Badge.
 
-## Sono passati ben 3 giorni e non ho ancora ricevuto la mia policard, a chi posso sporgere denuncia ?
+## Quanto tempo ci mette ad arrivare ?
 
-A mamma e papà e nel mentre che lo fai fatti una tisana e rilassati.
-
-## Sono laureato in magistrale e non ho ancora ricevuto la mia prima policard, è normale ?
-
-No, ma tranquillo non ti sei perso nulla.
+Dipende dalle zone, non preoccupatevi fino ad ottobre.
 
 ## Sono iniziate le lezioni e non ho ancora la policard, che cosa posso fare ?
 
@@ -389,9 +385,9 @@ Si, al politecnico la maggior parte degli insegnamenti NON richiede propedeucit�
 
 # Orario delle lezioni
 
-## È Luglio, sono al mare e il PoLiTeCNicO di MiLANo ha osato non pubblicare ancora l'orario, posso dirlo a mamma e papà ?
+## Quando escono gli orari delle lezioni ?
 
-Si puoi dirlo e spero ti facciano fare la rinuncia.
+Indicativamente periodo di fine agosto inizi di settembre.
 
 ## Come vedo l'orario ?
 
@@ -413,14 +409,6 @@ Per poter vedere il proprio scaglione di riferimento basterà aspettare l'uscit�
 
 Se siete impazienti invece vi basterà seguire la procedura sopra elencata e al posto di cliccare sul "+" verde vi basterà cliccare sul nome di un qualsiasi insegnamento del primo anno e potrete vedere il "+" verde affianco al vostro scaglione. ATTENZIONE: È possibile che gli scaglioni vengano cambianti poco prima dell'inizio delle lezioni, controllate sempre l'orario.
 
-## Non so la differenza tra un numero pari o dispari, cosa merito ?
-
-La rinuncia agli studi.
-
-## Ho 6 ore di fila, con chi posso lamentarmi ?
-
-Con nessuno, ci siamo passati tutti. Purtroppo il primo anno è piano per dare le basi.
-
 ## Mi sembra ingiusto che io abbia tutta la settimana con le lezioni ma il mio amico dell'altro scaglione abbia il giorno libero, posso cambiare scaglione ?
 
 NO non puoi cambiare scaglione. (godo)
@@ -433,9 +421,6 @@ Il cambio di scaglione può essere richiesto alla segreteria tramite "Servizi On
 
 Si, è possibile mettere l'orario su Google Calendar; basterà infatti andare su polimi app, andare sulla sezione dedicata all'orario e cliccare in alto a destra il simbolo con una freccia verso l'alto e cliccare su "Copia link iCal" andate poi tramite pagina web e modalità Desktop sulla pagina del vostro calendario preferito e cercate "imposta tramita ical" o "importa calendario", infine incollate il link e cliccate su importa.
 
-## Oggi piove e non ho voglia di andare a lezione, ma il prof non vuole avviare lo streaming. Cosa posso fare ?
-
-Andare a lezione.
 
 ## Qual è l'orario minimo e massimo per le lezioni ?
 
@@ -452,10 +437,6 @@ Controlla bene che non siano esercitazioni divise in squadre, queste infatti si 
 Qualora questo non fosse il caso, rivolgiti ai tuoi rappresentanti: loro sapranno cosa fare e chi contattare per risolvere. 
 
 NB: qualora siano corsi di anni diversi a coincidere non c’è nulla che tu possa fare
-
-## Credo ci sia un problema con il mio orario, è bellissimo.
-
-YAY (e così parte l'aggiornamento di ArchLinux)
 
 ## Le lezioni hanno frequenza obbligatoria ?
 
@@ -506,10 +487,6 @@ A tutti in generale, ma mirato per gli istituti con parte matematico-scientifica
 ## Cos'è ?
 
 È un giro al politecnico prima delle lezioni vere e proprie, vengono fatti incontri con molti organi di rappresentanza e avrete la possibilità di assistere alla presentazione ufficiale del vostro corso di studi in cui potrete conoscervi tra voi e conoscere i vostri rappresentanti.
-
-## È vero che chi ha scritto questa guida sarà alla lezione zero e farà gli autografi ?
-
-Si, confermo sono quello che ha scritto la guida.
 
 ## Serve ?
 
@@ -624,7 +601,7 @@ Dal sito del poli "Per essere considerato ‘fuori sede’ - e ottenere i benefi
 
 Tramite domanda per la DSU.
 
-## Per la borsa di studio da fuori sede serve il contratto registrato?
+##  Per la borsa di studio da fuori sede serve il contratto registrato?
 
 Si.
 
