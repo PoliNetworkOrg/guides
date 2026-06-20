@@ -178,7 +178,7 @@ L'ISEE va inserito prima dell'uscita della seconda rata, quindi prima di maggio.
 
 ### Cosa succede se mi dimentico ?
 
-Se ci si dimentica di inserire l'isee entro scadenza, verrà assegnata la fascia di reddito massima e quindi bisognerà pagare il massimo della rata. Ma non panicate, se infatti inserirete l'isee in ritardo allo scadere della scadenza per pagare la rata vi verrà data possibilità di pagare la rata della vostra fascia con una mora di 250€ per i ritardi.
+Se ci si dimentica di inserire l'isee entro scadenza, verrà assegnata la fascia di reddito massima e quindi bisognerà pagare il massimo della rata. Ma non panicate, se infatti inserirete l'isee in ritardo allo scadere della scadenza per pagare la rata vi verrà data possibilità di pagare la rata della vostra fascia con una mora di 200€ per il ritardo sull'inserimento dell'isee e 50€ per il ritardo sul pagamento della rata (se siete in ritardo), la mora sul ritardo della rata incrementa nel tempo.
 
 # Ecco le cose da fare se ti sei appena immatricolato
 
@@ -303,7 +303,7 @@ Ok, questo non è un problemone ma è una cosa antipatica ti capisco. Innanzitut
 È una vaccata, fidatevi non fatelo. Ma se vi serve ecco a voi la procedura, avete due modalità:
 
 - Online tramite "Servizi Online" -> “Tesserino PoliCard – attivazione servizi bancari"
-- Di persona presso una sede BPER Banca (è dentro Campus Leo)
+- Di persona presso una sede BPER Banca (è dentro Campus Leo o anche a Campus La Masa)
 
 Con l'attivazione avrete assegnato l'iban della vostra prepagata e potrete ricevere i soldi per i buoni pasto e/o DSU direttamente su quella carta.
 
@@ -432,7 +432,7 @@ Le squadre sono il modo di dividere uno scaglione in sotto-scaglioni, infatti pe
 
 ## Ho due lezioni allo stesso orario, come faccio ?
 
-Controlla bene che non siano esercitazioni divise in squadre, queste infatti si svolgono in stesso orario ma aulee diverse.
+Controlla bene che non siano esercitazioni divise in squadre, queste infatti si svolgono in stesso orario ma aule diverse.
 
 Qualora questo non fosse il caso, rivolgiti ai tuoi rappresentanti: loro sapranno cosa fare e chi contattare per risolvere. 
 
@@ -498,7 +498,7 @@ No.
 
 ## Cos'è il tutorato per le matricole ?
 
-Dei corsi gratuiti “di supporto” tenuti da studenti più grandi accettati dal politecnico
+Tutorato gratuito svolto da docenti o esercitatori del Polimi.
 
 ## Cos'è il Welcome Desk ?
 
@@ -778,12 +778,14 @@ Lista delle pagine instagram dei ccs:
 
 - CCS di Informatica e Computer Science: @cse_polimi
 
+- CCS di Aereospaziale e Aereospace: @aerostudents.polimi 
+
 4. I gruppi whatsapp: infatti dentro i gruppi whatsapp tra gli admin si trovano alcuni rappresentanti degli studenti presenti e attenti per aiutarvi in caso di necessità. Quindi usateli per chiedere assistenza a loro direttamente.
 
 
 # Cosa sono le associazioni
 
-Le associazioni studentesche sono gruppi di studenti che hanno una passione in comune, come costruire razzi, la cybersecurity, fare radio oppure anche una religione. È possibile vedere l'elenco delle associazioni del poli in questa [pagina](https://www.polimi.it/studenti/associazioni-degli-studenti)
+Le associazioni studentesche sono gruppi di studenti che organizzano attività al di fuori delle lezioni: eventi, progetti tecnici, competizioni, iniziative culturali, networking con aziende, volontariato e momenti sociali. Sono ideali se si vuole staccare dalla solita vita universitaria e vivere appieno le opportunità del politecnico. È possibile vedere l'elenco delle associazioni del poli in questa [pagina](https://www.polimi.it/studenti/associazioni-degli-studenti)
 
 # Come diventare admin di PoliNetwork
 
