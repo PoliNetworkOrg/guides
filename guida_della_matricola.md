@@ -14,7 +14,7 @@ Questa è una guida offerta da Polinetwork per gli studenti del Politecnico di M
 
 La guida può subire modifiche durante il corso degli anni, assicurarsi che la guida che si sta leggendo sia l'ultima versione.
 
-Versione: $1.0$
+Versione: $1.0.1$
 
 Contributi: [Niccolò Papini](https://drive.google.com/uc?export=download&id=1H1ZpMxJEGjITsQTOCewTA2Pb4fh74yjL)
 
